@@ -1,0 +1,2 @@
+# aicourse
+AI course
